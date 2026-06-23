@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://github.com/Saifeddine27/NIDS-Engine](https://github.com/Saifeddine27/nids-go">🛡️ NIDS Engine</a></h3>
+      <h3><a href="https://github.com/Saifeddine27/nids-go">🛡️ NIDS Engine</a></h3>
       <p>Network Intrusion Detection System analyzing network traffic via compiled regex rules.</p>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
       <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&amp;logo=cisco&amp;logoColor=white">
