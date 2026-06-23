@@ -4,7 +4,7 @@
     <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=1E293B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cybersecurity;DevOps+Enthusiast;2nd+Year+Student;Open+to+opportunities">
   </picture>
 
-  <h1>Saifeddine</h1>
+  <h1>Saif-Eddine Mehrach</h1>
   <p><em>2nd Year Engineering Student @ Ensimag Grenoble - Cybersecurity & DevOps</em></p>
 </div>
 
@@ -58,7 +58,7 @@
 
 - 🎓 2nd Year Engineering Student at **Ensimag Grenoble**
 - 🔭 Building: A Network Intrusion Detection System in Go
-- 🌱 Learning: Cybersecurity, DevOps practices, and Data structures
+- 🌱 Learning: Cybersecurity, DevOps practices
 - 👀 Open to: Cybersecurity and DevOps opportunities
 
 ---
