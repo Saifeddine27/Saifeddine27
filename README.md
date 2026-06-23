@@ -1,47 +1,97 @@
-# Salut, je suis [Ton Prénom / Pseudo] 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Élève+Ingénieur+à+l'Ensimag;Passionné+par+la+Cybersécurité;Développeur+Système+%26+Réseau" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cybersecurity+Specialist;Low-Level+Programmer;Ensimag+Student;Open+to+opportunities">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=1E293B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cybersecurity+Specialist;Low-Level+Programmer;Ensimag+Student;Open+to+opportunities">
+  </picture>
+
+  <h1>Saifeddine</h1>
+  <p><em>Engineering Student @ Ensimag Grenoble - Cybersecurity & AI</em></p>
 </div>
 
 ---
 
-### 👨‍💻 À propos de moi
-
-- 🎓 Je suis actuellement étudiant en ingénierie à l'**Ensimag** (Grenoble).
-- 🔐 Je me spécialise en **Cybersécurité** et en **Intelligence Artificielle**.
-- 🛠️ J'ai un fort attrait pour la programmation bas niveau, l'architecture système et les réseaux.
-- 🚀 Actuellement, je travaille sur un moteur **NIDS (Network Intrusion Detection System)** en Go pour analyser le trafic réseau et détecter les anomalies.
-
-### 🛠️ Mes Outils et Langages
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Remplace les icônes selon tes besoins, ici j'ai inclus tes technos principales -->
-    <img src="https://skillicons.dev/icons?i=c,go,python,scala,linux,git,bash" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifeddine27&amp;theme=transparent&amp;hide_border=true&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8">
+  <br>
+  <img src="https://img.shields.io/github/followers/Saifeddine27?style=flat-square&amp;color=38BDF8&amp;label=Followers">
+  <img src="https://img.shields.io/github/stars/Saifeddine27?style=flat-square&amp;color=38BDF8&amp;label=Stars">
+  <img src="https://img.shields.io/github/last-commit/Saifeddine27/Saifeddine27?style=flat-square&amp;color=38BDF8&amp;label=Latest%20Commit">
 </div>
 
-### 🚀 Mes Projets Phares
+---
 
-- 🛡️ **Moteur NIDS (Go) :** Développement d'un système de détection d'intrusions réseau analysant les port scans et ping sweeps via la compilation de règles regex.
-- 🖼️ **Encodeur JPEG (C) :** Implémentation from scratch incluant la DCT, la quantification (avec gestion spécifique du padding) et l'encodage de Huffman pour les images PPM et PGM.
-- 💻 **Processeur RISC-V (Chisel/Scala) :** Conception et vérification logique d'un processeur doté d'un pipeline à 12 étages.
+### Projects
 
-### 📊 Statistiques GitHub
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Saifeddine27/NIDS-Engine">🛡️ NIDS Engine</a></h3>
+      <p>Network Intrusion Detection System analyzing network traffic via compiled regex rules.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&amp;logo=cisco&amp;logoColor=white">
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Saifeddine27/JPEG-Encoder">🖼️ Custom JPEG Encoder</a></h3>
+      <p>From-scratch encoder with DCT, quantization, Huffman encoding, and advanced edge-pixel padding.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Algorithms-FF4F8B?style=flat-square&amp;logo=databricks&amp;logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Saifeddine27/RISCV-Processor">💻 RISC-V Processor</a></h3>
+      <p>Hardware design of a processor featuring a complex 12-stage pipeline.</p>
+      <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Chisel-000000?style=flat-square&amp;logo=siemens&amp;logoColor=white">
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Saifeddine27">🔒 Upcoming: Crypto & Net</a></h3>
+      <p>Deep-diving into Cryptography and Internet Principles for S7/S8 specialization.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Security-4CAF50?style=flat-square&amp;logo=linux&amp;logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+**Programming Languages**  
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white">
+
+**Systems, Hardware & Security**  
+<img src="https://img.shields.io/badge/Chisel-000000?style=flat-square&amp;logo=siemens&amp;logoColor=white">
+<img src="https://img.shields.io/badge/RISC--V-FFB243?style=flat-square&amp;logo=riscv&amp;logoColor=black">
+<img src="https://img.shields.io/badge/Regex-000000?style=flat-square&amp;logo=regex&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Cryptography-4CAF50?style=flat-square&amp;logo=linux&amp;logoColor=white">
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake-light.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+### Currently
+
+- 🎓 Studying at **Ensimag Grenoble**
+- 🔭 Building: A Network Intrusion Detection System in Go.
+- 🌱 Learning: Cryptography, advanced Internet Principles, and AI systems.
+- 👀 Open to: Cybersecurity and low-level system programming opportunities.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifeddine27&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifeddine27&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
-### 📫 Me contacter
-
-<div align="center">
-  <a href="mailto:ton.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="www.linkedin.com/in/saif-eddine-mehrach-167839394"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:Saifeddinemehrach111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/Saifeddine27"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
 </div>
