@@ -27,8 +27,8 @@
     <td width="100%">
       <h3><a href="https://github.com/Saifeddine27/GO-NIDS-IPS">🛡️Go-NIDS/IPS</a></h3>
       <p>Network Intrusion Detection System analyzing network traffic.</p>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
-      <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&amp;logo=cisco&amp;logoColor=white">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&logo=cisco&logoColor=white">
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Saifeddine27/Saifeddine27/gh-pages/github-contribution-grid-snake-dark.svg">
 </picture>
 
@@ -57,7 +57,7 @@
 ### Currently
 
 - 🎓 2nd Year Engineering Student at **Ensimag Grenoble**
-- 🔭 Building:-
+- 🔭 Building: **[Go-NIDS/IPS](https://github.com/Saifeddine27/GO-NIDS-IPS)**
 - 🌱 Learning: Cybersecurity, DevOps practices
 - 👀 Open to: Cybersecurity and DevOps opportunities
 
