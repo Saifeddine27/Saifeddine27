@@ -25,8 +25,8 @@
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://github.com/Saifeddine27/nids-go">🛡️ NIDS Engine</a></h3>
-      <p>Network Intrusion Detection System analyzing network traffic via compiled regex rules.</p>
+      <h3><a href="https://github.com/Saifeddine27/GO-NIDS-IPS">🛡️Go-NIDS/IPS</a></h3>
+      <p>Network Intrusion Detection System analyzing network traffic.</p>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
       <img src="https://img.shields.io/badge/Networking-000000?style=flat-square&amp;logo=cisco&amp;logoColor=white">
     </td>
@@ -57,7 +57,7 @@
 ### Currently
 
 - 🎓 2nd Year Engineering Student at **Ensimag Grenoble**
-- 🔭 Building: A Network Intrusion Detection System in Go
+- 🔭 Building:-
 - 🌱 Learning: Cybersecurity, DevOps practices
 - 👀 Open to: Cybersecurity and DevOps opportunities
 
